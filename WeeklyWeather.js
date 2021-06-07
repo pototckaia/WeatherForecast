@@ -1,7 +1,7 @@
 import React from 'react';
 import { StyleSheet, View, Text } from "react-native";
 
-export default function StupidBlock(props) {
+export default function WeeklyWeather(props) {
     console.log("Hello from StupidBlock");
     console.log(props);
     return (
